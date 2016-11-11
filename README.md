@@ -6,15 +6,14 @@ the goal of the game is to sort trash by moving them to the suitable
 3. the rest has to be put in the grey container.
 
 How to play?
-you can move the trash using the arrow keys on the keyboard or by using the mouse (drag and drop). 
+you can play this game in different ways.
+1. By using keybord: use the arrow keys to move the trash towards the four direction.
+2. By using the mouse: drag the trash and drop it in the container.
+3. By using the touch screen: touch the trash and then touch the upeer part of the container.
 
 Future improvements
-1. Add control buttons like "start" and "stop" buttons.(Done)
-2. Make it responsive and playable on mobile.
-3. Enhance Interfaces.
-4. Add sound effects.
-5. Add levels.
+1. Add levels.
+2. Enhance Interfaces.
+3. Add sound effects.
 
 The code is explained in the comments inside script.js file. 
-
- 
