@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Trash Sorting Game</title>    
+  </head>
+  <body>
+    <div id="game-div">
+      <div id="canvas-div">
+        <canvas id="canvas" width="700px" height="400px"></canvas>
+      </div>
+      <div id="buttons-div">
+        <button id="start-game" onClick="startMyGame()">Start game</button>
+        <button id="stop-game" onClick="stopMyGame()">Stop game</button>
+        <button id="display-info" onClick="displayInfo()">Show info</button>
+      </div>
+      <div id="info-div" class="display-none">
+        <h1>General information:</h1>
+        <p>The green container used to git rid of organic trash,
+           The blue container for paper and cartoon and 
+           the black for the rest.
+        </p>
+        <h2>How to play?</h2>
+        <p>
+            you can move the trash using the arrow keys on the keyboard or by using the mouse (drag and drop).
+        </p>  
+        <table id="info-table">
+        </table>
+      </div>
+    </div>
+    <script src="JSON.js"></script>
+    <script src="script.js"></script> 
+  </body>
+</html>
