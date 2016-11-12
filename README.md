@@ -16,4 +16,4 @@ Future improvements
 2. Enhance Interfaces.
 3. Add sound effects.
 
-The code is explained in the comments inside script.js file. 
+The code is explained in the comments inside script.js file (the will be addded later).
